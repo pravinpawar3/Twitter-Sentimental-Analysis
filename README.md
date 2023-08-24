@@ -1,5 +1,7 @@
 # Twitter_Sentiment_Analyzer_Dashboard
 
+<img width="1385" alt="image" src="https://github.com/pravinpawar3/Twitter_Sentiment_Analyzer_Dashboard/assets/23742943/dd4c52a7-6fef-4c08-920e-fcbb67ca31d5">
+
 # Prediction of Test Data:
 ![newplot (1)](https://github.com/pravinpawar3/Twitter_Sentiment_Analyzer_Dashboard/assets/23742943/aa901a5f-3c85-40f7-9eb0-41d4ce418c15)
 
