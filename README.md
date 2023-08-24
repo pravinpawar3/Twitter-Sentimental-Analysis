@@ -1,1 +1,1 @@
-# Twitter-Sentimental-Analysis
+# Twitter_Sentiment_Analyzer_Dashboard
