@@ -114,7 +114,7 @@ function DashboardAnalysis() {
                     <Plot data={[pieChartData]} />
                 </div>
                 <div className="bar-chart">
-                    <h3>Sentiment Over Time</h3>
+                    <h3>Sentiment per Target Class</h3>
                     <SelectComponent type="Sentiment" onValueChange={handleValueChangeForBarChart} lable="Data : " />
                     <Plot data={[barChartCt]} />
                 </div>
